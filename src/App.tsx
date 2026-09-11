@@ -1,9 +1,9 @@
-import MyComponent from './components/MyComponent'
+import MyComponent from './MyComponent'
 import './App.css'
 
 function App() {
   return (
-    <main className="app-shell">
+    <main className="App">
       <MyComponent />
     </main>
   )
